@@ -1,4 +1,4 @@
-# CCNA
+# static Routes
 Static routes are manually configured routes that tell a router exactly where to send network traffic for a specific destination. Unlike dynamic routing, which automatically learns routes using protocols like OSPF or EIGRP, static routing requires the network administrator to define each route.
 
 🔹 Key Points about Static Routes:
